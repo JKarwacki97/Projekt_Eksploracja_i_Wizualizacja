@@ -1,5 +1,5 @@
-#  Projekt na zaliczenie przedmiotu   
-# "Eksploracja i wizualizacja danych"
+#  Projekt na zaliczenie przedmiotu
+## **"Eksploracja i wizualizacja danych"**
 
 ## Wykonane zadania:
 1. 35.1
